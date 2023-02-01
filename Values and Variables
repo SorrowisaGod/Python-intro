@@ -1,0 +1,32 @@
+#Variable and Values
+#Variables are "things" that can be changed
+#variables are representations of "something"
+#Values are the actual data!
+human1 = "Tuff"
+human2 = "Christian"
+human3 = "blake"
+human4 = "Malachi"
+human5 = "Keira"
+
+#print all names in a line
+print(human1,human2,human3,human4,human5)
+print()
+
+#print all names vertically
+print("attendince")
+print()
+print(human1)
+print(human2)
+print(human3)
+print(human4)
+print(human5)
+
+
+
+
+print()
+
+
+humans = ['Tuff','Christian','blake','Malachi','Keira']
+for human in humans:
+    print(human)
