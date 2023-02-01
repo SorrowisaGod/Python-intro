@@ -1,0 +1,16 @@
+#strings
+FirstName = 'Seth'
+Last_name = 'Bird'
+#integer
+age = "16"
+grade = "11"
+#float
+height = '5,5'
+#booleans
+A_god = "True"
+#concatenation
+print("my name is: " + FirstName + Last_name)
+print("i am: " + age, "and i am: " + height)
+print("am i a god: " + A_god)
+
+
