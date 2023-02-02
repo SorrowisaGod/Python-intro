@@ -1,0 +1,28 @@
+#Equals: a == b
+#Not Equals: a != b
+#Less than: a < b
+#Less than or equal to: a <= b
+#Greater than: a > b
+#Greater than or equal to: a >= b
+
+a = 10
+b =30
+print(a / b)#divide 2 numbers and come out as float(decimal)
+print(a * b)#multiply 2 numbers 
+print(a//b)#divide 2 numbers and come out as integer(whole number)
+print(a-b)#subtract 2 numbers
+print(a%b)#divides 2 numbersand return the remainder
+print(a+b)#adds 2 numbers
+
+
+a = 10
+b = 40 #writing a second variable will cancel out the first one
+b = 50
+print(a + b)
+
+
+a = 10
+b = 40 
+b += 10
+print(a + b)
+= 60
