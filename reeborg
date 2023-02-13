@@ -1,0 +1,53 @@
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+    
+def turn_around():
+    turn_left()
+    turn_left()
+    
+def run():
+    move()
+    move()
+   
+def draw_one():
+    put()
+    move()
+    put()
+    move()
+    put()
+    move()
+    put()
+    move()
+    put()
+       
+def draw_zero():
+    put()
+    move()
+    put()
+    move()
+    put()
+    turn_right()
+    move()
+    put()
+    move()
+    put()
+    move()
+    put()
+    move()
+    turn_right()
+    move()
+    put()
+    move()
+    put()
+    turn_right()
+    move()
+    put()
+    move()
+    put
+    move()
+    put()
+    move()
+    
+       
